@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="PrimerTest" skipped="0" tests="1" time="26.06" timestamp="2020-10-02 12:28:13"><testcase classname="PrimerTest" name="Navigate to contact page"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+PrimerTest.navigateToContactPage(PrimerTest.kt:44)&#13;
+</system-err></testcase></testsuite>
